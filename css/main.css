@@ -73,8 +73,7 @@ p {
 }
 
 .slide, .slide:before {
-  background: 50% 50% / cover;  
-  position: relative;
+  background: 50% 50% / cover;
 }
 
 .header {
@@ -148,6 +147,7 @@ color: #fff;
 .contact {
 	text-align:center;
 	margin:0;
+	position: relative;
 }
 
 
